@@ -1,0 +1,76 @@
+
+                                  /*part1 styling*/
+#part1{
+	background-color: #f0decb;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+/*styling of logos*/
+
+#logos{
+	margin-bottom: 1rem;
+}
+
+.logo{
+	text-align: center;
+}
+
+
+/*styling of quick-info*/
+#quick-info{
+	margin: 2.75rem 0 2.75rem;
+}
+
+.submit{
+	margin: 1rem 0 7rem 0;
+}
+
+
+
+                                 /*part2 styling*/
+
+.home-img{
+	padding-top: 1rem;
+}
+
+.reg-content{
+	padding-bottom: 1rem;
+}
+
+.conf-content,.contact-content{
+	text-align: left;
+}
+
+.menu-contents
+{
+	text-align: center;
+	padding: 2rem 2rem 2rem 2rem;
+	background-color: #f6ecbf;
+}
+
+.home,.conf,.acc,.contact,.reg,h2{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.Upcoming-img{
+	height:10rem;
+}
+
+a span{
+	color: black;
+}
+
+.sponsor{
+	height: 9rem;
+	width: 9rem;
+	text-align: center;
+}
+
+
+.timer{
+	font-size: 2.5rem;
+	text-align: center;
+	margin: 0;
+	color: red;
+}
